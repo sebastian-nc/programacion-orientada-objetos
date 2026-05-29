@@ -8,7 +8,7 @@ public class Estudiante {
         ArrayList<String> estudiantes = new ArrayList<>();
         String opcion;
 
-      
+      	System.out.println("\n--- Ingreso de Estudiantes ---");
         try {
             while (true) {
                 System.out.print("Ingrese el nombre del estudiante (o escriba 'salir'): ");
