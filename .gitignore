@@ -1,0 +1,22 @@
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+*.class
+
+# Eclipse files
+*.launch
+.*.swp
+*~.nib
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
